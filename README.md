@@ -28,7 +28,7 @@ This repository contains an AI-based solution to the **Lights-Out Puzzle**, a co
 
 ---
 
-🧮 Requirements
+## 🧮 Requirements
 Python 3.x
 
 Libraries:
@@ -43,7 +43,8 @@ tabulate
 
 ---
 
-🎯 Insights
+## 🎯 Insights
+
 A* performed best in terms of efficiency and depth of solution.
 
 BFS guaranteed optimal results but at high memory cost.
@@ -54,13 +55,10 @@ Visualizations in the notebook help to understand how toggling affects the grid.
 
 ---
 
-Insights
-The Lights-Out Puzzle is solved using various search strategies, with a focus on optimizing computational performance and solution quality.
-The notebook provides a step-by-step breakdown of the solution process, including visualization.
+## 📚 Academic Context
 
----
-
-📚 Academic Context
 Course: Artificial Intelligence
+
 University: University of Tehran
+
 Instructor: Dr. YaghoobZadeh
